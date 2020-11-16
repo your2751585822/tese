@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 29614,
+      "draftId": 917780,
+      "status": 3,
+      "buyCompany": "锺刚有限公司",
+      "saleCompany": "郝洋有限公司"
+    },
+    {
+      "id": 82484,
+      "draftId": 394714,
+      "status": 2,
+      "buyCompany": "熊伟有限公司",
+      "saleCompany": "张芳有限公司"
+    },
+    {
+      "id": 90147,
+      "draftId": 549783,
+      "status": 3,
+      "buyCompany": "石秀兰有限公司",
+      "saleCompany": "宋明有限公司"
+    }
+  ]
+}

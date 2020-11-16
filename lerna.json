@@ -1,0 +1,22 @@
+{
+  "packages": [
+    "packages/*",
+    "repos/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true,
+      "nohoist": [
+        "mpvue*",
+        "babel*",
+        "webpack*",
+        "extract-text-webpack-plugin",
+        "uglifyjs-webpack-plugin"
+      ]
+    },
+    "version": {
+      "conventionalCommits": true
+    }
+  },
+  "version": "independent"
+}
