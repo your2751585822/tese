@@ -13,7 +13,7 @@
 // let myfun = new A(dataContent)
 
 // export {
-//   myfun
+
 // }
 import axios from 'axios'
 class BaseOrde{
