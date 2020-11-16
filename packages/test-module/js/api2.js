@@ -1,15 +1,4 @@
-// import data from "../../static/Order.json"
-// let dataContent = JSON.parse(JSON.stringify(data))
 
-// class A{
-//   constructor(dataContent){
-//     this.dataContent = dataContent
-//   }
-//   getData1(){
-//     return this.dataContent
-    
-//   }
-// }
 
 
 // export {
