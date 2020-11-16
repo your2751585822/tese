@@ -10,7 +10,7 @@
     
 //   }
 // }
-// let myfun = new A(dataContent)
+
 
 // export {
 
